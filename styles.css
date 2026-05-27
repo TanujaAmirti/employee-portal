@@ -77,17 +77,3 @@ button:hover {
     font-size: 20px;
   }
 }
-
-/* 📱 Tablet (601px - 900px) */
-/* @media (max-width: 900px) {
-  .container {
-    
-  }
-}
-
-/* 💻 Laptop (901px - 1200px) */
-@media (max-width: 1200px) {
-  .container {
-    
-  } */
-}
